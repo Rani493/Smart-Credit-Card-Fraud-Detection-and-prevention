@@ -26,4 +26,5 @@
 We use the popular **Kaggle credit card fraud detection dataset**, which contains anonymized transaction features labeled as **fraud** or **not fraud**.
 
 > [Kaggle Dataset Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+> 
 ![Credit card](https://github.com/user-attachments/assets/a1b411ce-dcc2-4549-8335-5b2448384025)
